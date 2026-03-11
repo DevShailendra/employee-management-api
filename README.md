@@ -1,19 +1,30 @@
 # Employee Management API
 
-This project is built using ASP.NET Core Web API.
+This project is built using ASP.NET Core Web API for managing employee records.
 
-Tech Stack:
-- ASP.NET Core
+## Tech Stack
+
+- ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
 - Swagger
 
-Features:
-- CRUD operations for employees
-- REST API architecture
-- Database migrations
+## Features
 
-Future Improvements:
+- Create employee
+- Get all employees
+- Get employee by id
+- Update employee
+- Delete employee
+
+## Tools
+
+- Visual Studio 2022
+- SQL Server Management Studio
+
+## Future Improvements
+
 - JWT Authentication
-- Azure Deployment
-- CI/CD Pipeline
+- Pagination and filtering
+- Azure cloud deployment
+- CI/CD pipeline
