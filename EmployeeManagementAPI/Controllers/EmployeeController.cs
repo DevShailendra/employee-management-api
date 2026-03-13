@@ -44,7 +44,7 @@ namespace EmployeeManagementAPI.Controllers
             {
                 Name = dto.Name,
                 Email = dto.Email,
-                Department = dto.Department,
+                //Department = dto.Department,
                 Salary = dto.Salary
             };
 
